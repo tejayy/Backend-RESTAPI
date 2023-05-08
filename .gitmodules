@@ -1,0 +1,3 @@
+[submodule "Django-RESTAPI"]
+	path = Django-RESTAPI
+	url = https://github.com/tejayy/Django-RESTAPI.git
